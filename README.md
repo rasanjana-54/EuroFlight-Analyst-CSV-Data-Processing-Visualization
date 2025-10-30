@@ -1,0 +1,2 @@
+# EuroFlight-Analyst-CSV-Data-Processing-Visualization
+The EuroFlight Analyst is a console-based Python application that processes flight departure data from European airports to generate various analytical insights. The project showcases core Python programming skills, including data manipulation, comprehensive user input validation, file I/O, and data visualization using the graphics.py library.
