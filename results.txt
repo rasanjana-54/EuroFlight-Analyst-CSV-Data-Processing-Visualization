@@ -1,0 +1,28 @@
+
+*********************************************************************************
+File CDG2021.csv selected - Planes departing Charles De Gaulle International 2021
+*********************************************************************************
+The total number of flights from this airport was 32
+The total number of flights departing Runway one was 6
+The total number of departures of flights over 500 miles was 23
+There were 3 British Airways flights from this airport
+There were 19 flights from this airport departing in rain
+There was an average of 2.67 flights per hour from this airport
+Air France planes made up 18.75% of all departures
+40.62% of all departures were delayed
+There were 7 hours in which rain fell
+The most common destinations are ['Rome Fiumicino']
+
+*********************************************************************************
+File CDG2021.csv selected - Planes departing Charles De Gaulle International 2021
+*********************************************************************************
+The total number of flights from this airport was 32
+The total number of flights departing Runway one was 6
+The total number of departures of flights over 500 miles was 23
+There were 3 British Airways flights from this airport
+There were 19 flights from this airport departing in rain
+There was an average of 2.67 flights per hour from this airport
+Air France planes made up 18.75% of all departures
+40.62% of all departures were delayed
+There were 7 hours in which rain fell
+The most common destinations are ['Rome Fiumicino']
